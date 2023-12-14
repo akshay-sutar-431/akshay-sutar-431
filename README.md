@@ -9,11 +9,12 @@
 🔧 Tech Arsenal:
    - Automation Frameworks: Selenium, Appium, Cypress
    - Languages: Java, Python
+   - Testing: JUnit, TestNG, pytest
    - CI/CD: Git, GitHub, Jenkins CI
    - API Testing: RestAssured, Postman
    - Performance Testing: JMeter
    - Containers: Docker
-   - Test Management: ClickUp
+   - Test Management: ClickUp, TestRail, Zephyr
 
 🌐 Navigating the dynamic landscape of software testing, I thrive on challenging projects that demand innovative solutions.
 
@@ -33,18 +34,3 @@
    - LinkedIn: https://www.linkedin.com/in/akshay-sutar-785b3013a/
 
 💬 Eager to engage in conversations about testing strategies, automation challenges, and the relentless pursuit of bug-free software. Collaborators welcome – let’s build resilient software together! 🌐🔍
-
-<!--
-**akshay-sutar-431/akshay-sutar-431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
