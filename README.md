@@ -9,7 +9,7 @@
 🔧 Tech Arsenal:
    - Automation Frameworks: Selenium, Appium
    - Languages: Java
-   - Testing: TestNG
+   - Testing: TestNG, Cucumber
    - CI/CD: Git, GitHub, Jenkins CI
    - API Testing: Postman
    - Containers: Docker
